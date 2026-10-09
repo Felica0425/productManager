@@ -1,0 +1,7 @@
+{
+  "base_url": "https://your-company-gateway.example/v1",
+  "model": "填写公司允许使用的模型名称",
+  "api_key_env": "MUSIC_EVAL_API_KEY",
+  "timeout": 120,
+  "temperature": 0
+}
